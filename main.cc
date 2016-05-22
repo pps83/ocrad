@@ -31,7 +31,9 @@
 #include <stdint.h>
 #if defined(__MSVCRT__) || defined(__OS2__) || defined(_MSC_VER)
 #include <fcntl.h>
+#ifndef _MSC_VER
 #include <unistd.h>
+#endif
 #include <io.h>
 #endif
 

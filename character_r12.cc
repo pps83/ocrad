@@ -18,6 +18,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
+#include <algorithm>
 #include <stdint.h>
 
 #include "common.h"
