@@ -1,0 +1,5 @@
+/msvs/*.VC.db
+/msvs/*.VC.opendb
+/msvs/.vs/
+/msvs/x64/
+/msvs/Win32/
